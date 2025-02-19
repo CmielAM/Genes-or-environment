@@ -1,0 +1,735 @@
+casename;Clade;River;River Basin;Catchment;length [mm];length at age 1 [mm];length at age 2 [mm];length at age 3 [mm]
+1;Yellow;Czerkawa;Dniester;Black Sea;59;22,0;25,3;27
+2;Pink;San;Vistula;Baltic Sea;62;;16;
+3;Green;STUPIA;coastal (S³upia);Baltic Sea;70;22,0;36;44
+4;Green;STUPIA;coastal (S³upia);Baltic Sea;68;26,0;39;48
+5;Green;STUPIA;coastal (S³upia);Baltic Sea;63;16,0;30;44
+6;Pink;Ostawica;Vistula;Baltic Sea;67;13,0;24;36
+7;Pink;San;Vistula;Baltic Sea;60;8,0;24;36
+8;Pink;Ostawica;Vistula;Baltic Sea;67;26,0;30;35
+9;Pink;Grónik;Danube;Black Sea;55;13,1;17,2;25,9
+10;Pink;Ostawica;Vistula;Baltic Sea;71;16,0;19;26,5
+11;Pink;Ostawica;Vistula;Baltic Sea;58;15,0;21;33,5
+12;Pink;Grónik;Danube;Black Sea;55;26,0;34,3;38,4
+13;Pink;Ostawica;Vistula;Baltic Sea;57;15,0;26;37
+14;Green;Warkocz;Vistula;Baltic Sea;61;22,0;30;34,9
+15;Green;STUPIA;coastal (S³upia);Baltic Sea;66;17,0;34;45
+16;Pink;Radunia;Vistula;Baltic Sea;46;15,0;21;27
+17;Pink;San;Vistula;Baltic Sea;52;17,0;22;27,8
+18;Pink;Ostawica;Vistula;Baltic Sea;55;10,6;19;28,6
+19;Pink;Bega;Danube;Black Sea;50;14,0;25;28
+20;Pink;Radunia;Vistula;Baltic Sea;43;14,0;21;27
+21;Green;Czarna Hancza;Neman;Baltic Sea;42;6,0;13;18
+22;Green;Czarna Hancza;Neman;Baltic Sea;41;10,0;16,5;24
+23;Green;Szeszupa;Neman;Baltic Sea;40;17,2;20;22,9
+24;Green;Czarna Hancza;Neman;Baltic Sea;49;9,0;14;21
+25;Green;Czarna Hancza;Neman;Baltic Sea;39;8,0;15;22
+26;Green;Czarna Hancza;Neman;Baltic Sea;41;8,0;13,5;19
+27;Green;Drawa;Oder;Baltic Sea;57;17,0;31;37,5
+28;Pink;San;Vistula;Baltic Sea;44;14,2;19,3;22,9
+29;Pink;Radunia;Vistula;Baltic Sea;40;18,0;22,5;27
+30;Green;Czarna Hancza;Neman;Baltic Sea;35;10,0;16,2;21,5
+31;Green;Drawa;Oder;Baltic Sea;54,5;18,0;28;39
+32;Green;STUPIA;coastal (S³upia);Baltic Sea;64;15,0;24;32
+33;Green;Czarna Hancza;Neman;Baltic Sea;37;7,0;13;20
+34;Green;Czarna Hancza;Neman;Baltic Sea;38,5;7,0;12,5;20
+35;Green;Czarna Hancza;Neman;Baltic Sea;37;9,0;15,6;23
+36;Green;Szeszupa;Neman;Baltic Sea;47;14,0;19;23,1
+37;Pink;NISHAVA;Danube;Black Sea;52;16,0;26;33,5
+38;Green;Drawa;Oder;Baltic Sea;51,5;18,0;27;34
+39;Pink;San;Vistula;Baltic Sea;43;12,0;19;21,8
+40;Green;STUPIA;coastal (S³upia);Baltic Sea;68;25,0;37;42,5
+41;Green;Czarna Hancza;Neman;Baltic Sea;37;11,0;17;20
+42;Green;Szeszupa;Neman;Baltic Sea;47;15,5;24,3;30
+43;Green;Warkocz;Vistula;Baltic Sea;63,5;23,0;24;34,5
+44;Pink;San;Vistula;Baltic Sea;57;20,0;28;31
+45;Green;STUPIA;coastal (S³upia);Baltic Sea;66;19,0;29;37
+46;Yellow;Czerkawa;Dniester;Black Sea;53;20,0;25,9;28,2
+47;Pink;Ostawica;Vistula;Baltic Sea;60;21,0;34,2;43
+48;Pink;Radunia;Vistula;Baltic Sea;45;18,0;22;27
+49;Green;Czarna Hancza;Neman;Baltic Sea;47;12,0;18;23
+50;Pink;Bega;Danube;Black Sea;47;23,0;28;30
+51;Pink;PALAKARIYA;Danube;Black Sea;67;32,0;39,9;44
+52;Pink;Grónik;Danube;Black Sea;57;27,0;34,1;40
+53;Green;STUPIA;coastal (S³upia);Baltic Sea;60;16,0;24,5;33
+54;Green;Czarna Hancza;Neman;Baltic Sea;36;7,7;11;16,2
+55;Green;Czarna Hancza;Neman;Baltic Sea;47;10,0;15;20
+56;Pink;San;Vistula;Baltic Sea;53;7,0;15;19
+57;Pink;Grónik;Danube;Black Sea;56;16,0;26;32
+58;Pink;San;Vistula;Baltic Sea;51;13,0;18;24
+59;Green;Drawa;Oder;Baltic Sea;66;13,0;24;30
+60;Pink;Ostawica;Vistula;Baltic Sea;67;11,7;23;31
+61;Pink;Prut;Danube;Black Sea;74;29,0;44;50,2
+62;Pink;Radunia;Vistula;Baltic Sea;49;21,0;28,9;33
+63;Green;Czarna Hancza;Neman;Baltic Sea;40,5;11,0;17;23
+64;Green;STUPIA;coastal (S³upia);Baltic Sea;56;19,0;29;35
+65;Pink;San;Vistula;Baltic Sea;45;12,0;16;19
+66;Pink;San;Vistula;Baltic Sea;56;20,0;23;27
+67;Green;Czarna Hancza;Neman;Baltic Sea;42,5;11,5;16;23
+68;Pink;Radunia;Vistula;Baltic Sea;47;19,0;22,2;28
+69;Green;Czarna Hancza;Neman;Baltic Sea;39;10,0;15;20
+70;Green;Drawa;Oder;Baltic Sea;52;18,0;30;37
+71;Pink;San;Vistula;Baltic Sea;55;18,0;22,5;29,8
+72;Green;Czarna Hancza;Neman;Baltic Sea;35;14,0;16,7;22
+73;Pink;Ostawica;Vistula;Baltic Sea;62;19,0;25;28
+74;Green;Czarna Hancza;Neman;Baltic Sea;42,5;9,0;17;20
+75;Green;Virvytia;Venta;Baltic Sea;57;17,0;22,3;32
+76;Green;STUPIA;coastal (S³upia);Baltic Sea;65;15,0;24;34
+77;Green;Szeszupa;Neman;Baltic Sea;51;15,0;21,1;27
+78;Pink;Grónik;Danube;Black Sea;52;21,0;23;28
+79;Pink;Grónik;Danube;Black Sea;55;27,0;33;37,8
+80;Pink;PALAKARIYA;Danube;Black Sea;60;23,0;31;35,5
+81;Green;STUPIA;coastal (S³upia);Baltic Sea;61;17,5;33;36
+82;Pink;NISHAVA;Danube;Black Sea;50;15,0;23;29,5
+83;Pink;San;Vistula;Baltic Sea;53;13,0;21;24
+84;Green;STUPIA;coastal (S³upia);Baltic Sea;62;13,0;27;34
+85;Pink;San;Vistula;Baltic Sea;52;17,2;24,2;27
+86;Pink;Grónik;Danube;Black Sea;50;20,5;28;34
+87;Pink;San;Vistula;Baltic Sea;49;19,0;21;26
+88;Pink;San;Vistula;Baltic Sea;57;14,2;26;30
+89;Pink;San;Vistula;Baltic Sea;47;8,0;12;22
+90;Green;LUKNELIS;Neman;Baltic Sea;51;17,0;21,5;26,4
+91;Pink;San;Vistula;Baltic Sea;49;14,0;21,5;29
+92;Pink;Grónik;Danube;Black Sea;53;18,0;21;28
+93;Pink;Ostawica;Vistula;Baltic Sea;70;22,0;33;40
+94;Green;Virvytia;Venta;Baltic Sea;51;13,1;16;21,2
+95;Pink;Grónik;Danube;Black Sea;46;17,1;24,5;29
+96;Pink;Grónik;Danube;Black Sea;49;22,0;30;34
+97;Green;Szeszupa;Neman;Baltic Sea;47;15,0;18,9;22,3
+98;Green;Warkocz;Vistula;Baltic Sea;56;20,0;25;30,3
+99;Green;LUKNELIS;Neman;Baltic Sea;47;19,0;24,7;27
+100;Green;Czarna Hancza;Neman;Baltic Sea;41;8,0;15;19
+101;Green;LUKNELIS;Neman;Baltic Sea;53;18,0;24;28
+102;Green;Czarna Hancza;Neman;Baltic Sea;39;13,0;17;21
+103;Green;STUPIA;coastal (S³upia);Baltic Sea;60;18,0;30;39
+104;Pink;PALAKARIYA;Danube;Black Sea;53;28,0;33;35
+105;Pink;San;Vistula;Baltic Sea;55;8,2;12;16
+106;Green;STUPIA;coastal (S³upia);Baltic Sea;62;19,0;31;36,8
+107;Pink;PALAKARIYA;Danube;Black Sea;65;21,0;26;35,2
+108;Green;Czarna Hancza;Neman;Baltic Sea;41;8,0;15;18
+109;Pink;NISHAVA;Danube;Black Sea;56;14,0;22;30
+110;Pink;Grónik;Danube;Black Sea;50;20,0;23;26,5
+111;Pink;Grónik;Danube;Black Sea;47;19,0;21,5;26
+112;Yellow;Czerkawa;Dniester;Black Sea;55;15,2;20;26
+113;Green;Drawa;Oder;Baltic Sea;66;19,8;21;30
+114;Green;Czarna Hancza;Neman;Baltic Sea;39;5,0;12;16,5
+115;Pink;Ostawica;Vistula;Baltic Sea;65;22,0;32,6;41
+116;Green;LUKNELIS;Neman;Baltic Sea;54;17,7;23;28
+117;Pink;Grónik;Danube;Black Sea;56;22,0;27;33
+118;Pink;Ostawica;Vistula;Baltic Sea;61;19,0;29,8;34,8
+119;Green;Czarna Hancza;Neman;Baltic Sea;36;13,0;17;21
+120;Pink;San;Vistula;Baltic Sea;56,5;12,0;13,5;26
+121;Yellow;Czerkawa;Dniester;Black Sea;57;20,0;22,7;25,5
+122;Pink;Grónik;Danube;Black Sea;55;26,0;27;28
+123;Pink;San;Vistula;Baltic Sea;51;14,0;21,1;22,8
+124;Pink;Ostawica;Vistula;Baltic Sea;55;16,3;25;31
+125;Green;LUKNELIS;Neman;Baltic Sea;53;15,7;22,5;29
+126;Green;Virvytia;Venta;Baltic Sea;50;13,5;20,7;26,4
+127;Green;Czarna Hancza;Neman;Baltic Sea;35;7,0;15;19,5
+128;Green;Szeszupa;Neman;Baltic Sea;45;14,0;16,8;22,5
+129;Green;Szeszupa;Neman;Baltic Sea;48;14,0;21;33
+130;Green;STUPIA;coastal (S³upia);Baltic Sea;57;18,0;32;37
+131;Pink;Prut;Danube;Black Sea;77;23,9;41,5;46,9
+132;Pink;Grónik;Danube;Black Sea;56;21,0;25;29
+133;Green;Szeszupa;Neman;Baltic Sea;53;16,0;24,1;26,5
+134;Pink;Grónik;Danube;Black Sea;53;23,0;26;31
+135;Pink;NISHAVA;Danube;Black Sea;48;12,0;16;22
+136;Pink;San;Vistula;Baltic Sea;55;7,0;10;16
+137;Pink;Grónik;Danube;Black Sea;50;16,0;21;26
+138;Pink;Ostawica;Vistula;Baltic Sea;54,8;15,3;21,2;34,5
+139;Green;LUKNELIS;Neman;Baltic Sea;49;16,0;20,5;25
+140;Pink;San;Vistula;Baltic Sea;50;14,0;19;23
+141;Green;STUPIA;coastal (S³upia);Baltic Sea;62;21,0;30,5;36
+142;Green;Szeszupa;Neman;Baltic Sea;55;12,1;22;29
+143;Pink;San;Vistula;Baltic Sea;54;9,0;16,5;24
+144;Pink;NISHAVA;Danube;Black Sea;43;12,0;19,5;27
+145;Pink;NISHAVA;Danube;Black Sea;55;15,0;21;27
+146;Pink;San;Vistula;Baltic Sea;51;13,4;20;22,4
+147;Green;Szeszupa;Neman;Baltic Sea;49;20,1;32;35,1
+148;Green;Czarna Hancza;Neman;Baltic Sea;34;6,0;12;18
+149;Pink;San;Vistula;Baltic Sea;54;13,0;18;24
+150;Green;Czarna Hancza;Neman;Baltic Sea;37,5;7,0;11;15
+151;Pink;San;Vistula;Baltic Sea;51;7,5;12;16,3
+152;Pink;San;Vistula;Baltic Sea;49;12,0;18,4;22
+153;Green;Czarna Hancza;Neman;Baltic Sea;46;11,0;14;17,5
+154;Green;Czarna Hancza;Neman;Baltic Sea;34;8,6;13;19
+155;Green;STUPIA;coastal (S³upia);Baltic Sea;73;21,0;31,5;40,5
+156;Pink;Grónik;Danube;Black Sea;54;16,0;23;26
+157;Green;Czarna Hancza;Neman;Baltic Sea;32;9,0;15;17
+158;Green;Virvytia;Venta;Baltic Sea;54;5,0;11;24,3
+159;Pink;Radunia;Vistula;Baltic Sea;49;14,3;19;22
+160;Pink;Grónik;Danube;Black Sea;60;22,0;26;27
+161;Green;Czarna Hancza;Neman;Baltic Sea;34;6,5;11;16,5
+162;Pink;Grónik;Danube;Black Sea;50;16,0;21;24
+163;Pink;San;Vistula;Baltic Sea;58,5;9,2;12,5;21,7
+164;Pink;San;Vistula;Baltic Sea;53;15,3;21,2;28
+165;Green;Czarna Hancza;Neman;Baltic Sea;25,3;7,0;9;10,1
+166;Green;Virvytia;Venta;Baltic Sea;61;15,5;23,2;33
+167;Green;Warkocz;Vistula;Baltic Sea;60;17,3;27,2;33
+168;Green;STUPIA;coastal (S³upia);Baltic Sea;68;19,0;35;39,8
+169;Pink;Ostawica;Vistula;Baltic Sea;51;21,0;28;36
+170;Green;Brzeznicka;Oder;Baltic Sea;45;19,0;23;27
+171;Pink;Radunia;Vistula;Baltic Sea;45;10,1;17;24,6
+172;Pink;Prut;Danube;Black Sea;71;24,0;31;43,9
+173;Pink;PALAKARIYA;Danube;Black Sea;63;31,0;38;44
+174;Yellow;Czerkawa;Dniester;Black Sea;60;14,0;27;35
+175;Pink;Bega;Danube;Black Sea;46;13,0;28;30
+176;Pink;San;Vistula;Baltic Sea;43;14,0;22;25
+177;Yellow;Czerkawa;Dniester;Black Sea;59;19,0;27,1;34,9
+178;Pink;NISHAVA;Danube;Black Sea;56;18,0;28;36,8
+179;Green;Szeszupa;Neman;Baltic Sea;42;17,0;23;26
+180;Pink;Grónik;Danube;Black Sea;57;24,0;33;40
+181;Green;Drawa;Oder;Baltic Sea;54;12,0;23;36
+182;Pink;Radunia;Vistula;Baltic Sea;40;14,1;21,2;26,9
+183;Green;Szeszupa;Neman;Baltic Sea;53;17,0;26,3;32,8
+184;Pink;Ostawica;Vistula;Baltic Sea;52;14,0;24;30
+185;Pink;Grónik;Danube;Black Sea;28;22,3;29,9;35
+186;Green;Szeszupa;Neman;Baltic Sea;52;16,0;25,4;31
+187;Yellow;Czerkawa;Dniester;Black Sea;64;16,1;25,8;34,6
+188;Yellow;Czerkawa;Dniester;Black Sea;62;23,0;32;35,2
+189;Green;Szeszupa;Neman;Baltic Sea;45;12,0;21,5;29
+190;Green;STUPIA;coastal (S³upia);Baltic Sea;52;16,0;22;32
+191;Yellow;Czerkawa;Dniester;Black Sea;51;15,0;22,3;24,5
+192;Yellow;Czerkawa;Dniester;Black Sea;57;28,0;33;43,8
+193;Pink;Ostawica;Vistula;Baltic Sea;68;13,4;20,6;42
+194;Pink;PALAKARIYA;Danube;Black Sea;67,5;25,0;31;39,8
+195;Pink;Radunia;Vistula;Baltic Sea;45;15,4;19,3;25
+196;Pink;Grónik;Danube;Black Sea;55;25,7;33;40
+197;Pink;Bega;Danube;Black Sea;43;18,5;28;33
+198;Yellow;Czerkawa;Dniester;Black Sea;60;20,2;25,7;29,6
+199;Green;STUPIA;coastal (S³upia);Baltic Sea;66;25,0;39;46
+200;Pink;PALAKARIYA;Danube;Black Sea;59;22,0;34;38,5
+201;Pink;Ostawica;Vistula;Baltic Sea;60;18,0;32,3;40
+202;Pink;Radunia;Vistula;Baltic Sea;40;13,0;18;22
+203;Pink;Radunia;Vistula;Baltic Sea;40;13,0;19,2;25
+204;Green;Brzeznicka;Oder;Baltic Sea;57;20,4;32;33,8
+205;Pink;Radunia;Vistula;Baltic Sea;41;16,0;19;25,1
+206;Yellow;Czerkawa;Dniester;Black Sea;54;16,0;28,1;38
+207;Green;Brzeznicka;Oder;Baltic Sea;40;11,2;17,4;20,1
+208;Green;STUPIA;coastal (S³upia);Baltic Sea;54;23,0;32;42
+209;Pink;Ostawica;Vistula;Baltic Sea;53;14,5;26,5;34,8
+210;Green;STUPIA;coastal (S³upia);Baltic Sea;64;18,0;27;38
+211;Green;Brzeznicka;Oder;Baltic Sea;50;18,2;28,2;33,2
+212;Pink;San;Vistula;Baltic Sea;47;19,0;27;30,3
+213;Pink;Grónik;Danube;Black Sea;47;25,0;31;34
+214;Green;Brzeznicka;Oder;Baltic Sea;35;16,0;22;27,2
+215;Green;Brzeznicka;Oder;Baltic Sea;45;17,1;22;27,2
+216;Green;LUKNELIS;Neman;Baltic Sea;49;14,5;24,3;31,4
+217;Green;STUPIA;coastal (S³upia);Baltic Sea;66,5;21,0;36;46
+218;Green;Czarna Hancza;Neman;Baltic Sea;36,5;9,0;16;20
+219;Pink;NISHAVA;Danube;Black Sea;47;14,0;22;30
+220;Pink;Ostawica;Vistula;Baltic Sea;54;15,0;26;35
+221;Pink;Ostawica;Vistula;Baltic Sea;52;20,0;28;37
+222;Pink;NISHAVA;Danube;Black Sea;51;16,5;22;27
+223;Pink;Prut;Danube;Black Sea;64;20,0;34,1;41,3
+224;Pink;Radunia;Vistula;Baltic Sea;50;19,0;25;29,3
+225;Green;Boh;Dnieper;Black Sea;62;27,0;33;42,5
+226;Green;STUPIA;coastal (S³upia);Baltic Sea;59;14,0;24;32,2
+227;Green;Czarna Hancza;Neman;Baltic Sea;29;7,0;11;16
+228;Pink;Prut;Danube;Black Sea;74;25,0;37,5;43
+229;Green;Czarna Hancza;Neman;Baltic Sea;31;7,5;13;16
+230;Green;Szeszupa;Neman;Baltic Sea;41;9,0;13,1;18,9
+231;Green;LUKNELIS;Neman;Baltic Sea;49;22,0;23,8;27
+232;Green;STUPIA;coastal (S³upia);Baltic Sea;57;15,0;27;34
+233;Pink;Prut;Danube;Black Sea;68;20,0;32,1;40,2
+234;Yellow;Czerkawa;Dniester;Black Sea;62;23,0;27,5;30,8
+235;Pink;Ostawica;Vistula;Baltic Sea;35;12,0;16;19
+236;Green;STUPIA;coastal (S³upia);Baltic Sea;64;18,0;31;42
+237;Yellow;Czerkawa;Dniester;Black Sea;59;22,0;27;31,6
+238;Green;Brzeznicka;Oder;Baltic Sea;56;21,0;22,5;38,2
+239;Green;Drawa;Oder;Baltic Sea;50;16,0;24;30
+240;Pink;San;Vistula;Baltic Sea;37;10,0;16;22,3
+241;Pink;Bega;Danube;Black Sea;35;17,0;24,7;27
+242;Green;Drawa;Oder;Baltic Sea;52;8,0;18;28
+243;Yellow;Czorna Krym;Coastal (czorna);Black Sea;41;13,0;24;31
+244;Pink;NISHAVA;Danube;Black Sea;48;16,0;24;35
+245;Green;STUPIA;coastal (S³upia);Baltic Sea;58;21,0;31,5;40,9
+246;Yellow;Czerkawa;Dniester;Black Sea;57;26,0;30,2;36,8
+247;Green;Brzeznicka;Oder;Baltic Sea;51;22,0;31,2;38,2
+248;Green;Brzeznicka;Oder;Baltic Sea;55;19,2;29;42,1
+249;Pink;NISHAVA;Danube;Black Sea;53;15,5;25,5;41
+250;Green;STUPIA;coastal (S³upia);Baltic Sea;52;26,0;34;40
+251;Green;Drawa;Oder;Baltic Sea;52;11,0;21;31
+252;Yellow;Czorna Krym;Coastal (czorna);Black Sea;36;13,0;22;27,9
+253;Pink;OGOSTA;Danube;Black Sea;54;21,0;34;42,3
+254;Green;Szeszupa;Neman;Baltic Sea;51;14,0;23;32
+255;Pink;Ostawica;Vistula;Baltic Sea;51;16,0;25;32
+256;Green;Szeszupa;Neman;Baltic Sea;48;14,0;23;31
+257;Pink;Radunia;Vistula;Baltic Sea;45;19,0;27;34,1
+258;Green;Drawa;Oder;Baltic Sea;50;5,5;17;33
+259;Pink;Prut;Danube;Black Sea;67;27,1;38,9;49,8
+260;Green;Brzeznicka;Oder;Baltic Sea;50;24,0;34,2;38,9
+261;Yellow;Czerkawa;Dniester;Black Sea;51;21,1;26;31,2
+262;Green;Drawa;Oder;Baltic Sea;65;23,0;38;50
+263;Pink;Bega;Danube;Black Sea;43;17,0;26;35,2
+264;Green;Szeszupa;Neman;Baltic Sea;43;13,0;19;25
+265;Green;STUPIA;coastal (S³upia);Baltic Sea;64;21,0;32;46
+266;Yellow;Czorna Krym;Coastal (czorna);Black Sea;41;20,0;26;32,1
+267;Green;STUPIA;coastal (S³upia);Baltic Sea;61;27,0;38;48
+268;Green;STUPIA;coastal (S³upia);Baltic Sea;61;25,0;39;47,4
+269;Pink;Bega;Danube;Black Sea;40,5;13,0;24;29
+270;Yellow;Czorna Krym;Coastal (czorna);Black Sea;36;18,4;25;28,3
+271;Pink;Bega;Danube;Black Sea;36;17,0;24;26
+272;Yellow;Czorna Krym;Coastal (czorna);Black Sea;36;12,0;18,5;25,13
+273;Yellow;Czorna Krym;Coastal (czorna);Black Sea;36;13,0;19,1;26,1
+274;Pink;Bega;Danube;Black Sea;40;15,5;30,6;32
+275;Green;STUPIA;coastal (S³upia);Baltic Sea;55,8;23,0;35;43
+276;Green;Boh;Dnieper;Black Sea;67;27,0;39,5;51
+277;Yellow;Czorna Krym;Coastal (czorna);Black Sea;38;15,0;19;25
+278;Pink;Bega;Danube;Black Sea;36;11,0;24;26
+279;Green;STUPIA;coastal (S³upia);Baltic Sea;54;26,0;38;45
+280;Green;Szeszupa;Neman;Baltic Sea;50;23,1;34;40
+281;Yellow;Czorna Krym;Coastal (czorna);Black Sea;32;13,0;16;22,7
+282;Yellow;Czerkawa;Dniester;Black Sea;48;16,8;22;27,9
+283;Green;Boh;Dnieper;Black Sea;71;26,0;44;52,1
+284;Green;Szeszupa;Neman;Baltic Sea;53;20,5;27,8;33
+285;Pink;Ostawica;Vistula;Baltic Sea;52;17,0;26;35
+286;Yellow;Czerkawa;Dniester;Black Sea;64;20,0;23;28
+287;Pink;Prut;Danube;Black Sea;67;29,0;34,1;42,3
+288;Pink;NISHAVA;Danube;Black Sea;47;15,0;23;29,7
+289;Green;Warkocz;Vistula;Baltic Sea;50;21,0;24;30,5
+290;Pink;Grónik;Danube;Black Sea;50;14,0;24;34
+291;Green;Szeszupa;Neman;Baltic Sea;50;17,0;25,1;30
+292;Pink;Prut;Danube;Black Sea;66;23,0;34;41,5
+293;Yellow;Czorna Krym;Coastal (czorna);Black Sea;35;11,0;18;25
+294;Pink;Ostawica;Vistula;Baltic Sea;47;14,0;21;32
+295;Pink;NISHAVA;Danube;Black Sea;45;14,0;21;30
+296;Green;Warkocz;Vistula;Baltic Sea;45;21,0;26,8;31
+297;Pink;Prut;Danube;Black Sea;59;21,0;32;35
+298;Pink;Bega;Danube;Black Sea;43,5;12,0;24;29,8
+299;Pink;Prut;Danube;Black Sea;72;22,0;30;42,1
+300;Yellow;Czerkawa;Dniester;Black Sea;47,5;18,2;21,6;25,4
+301;Pink;San;Vistula;Baltic Sea;43;8,0;13;19
+302;Pink;Ostawica;Vistula;Baltic Sea;53;16,5;25,4;33
+303;Yellow;Czerkawa;Dniester;Black Sea;57;18,0;21,3;29,3
+304;Pink;Prut;Danube;Black Sea;70;17,0;37;43,3
+305;Pink;Bega;Danube;Black Sea;42;12,0;24;24
+306;Pink;Radunia;Vistula;Baltic Sea;35;13,0;16,5;21,4
+307;Pink;Ostawica;Vistula;Baltic Sea;55;18,0;29;36,6
+308;Pink;Grónik;Danube;Black Sea;67;17,0;29;41
+309;Pink;NISHAVA;Danube;Black Sea;53;23,0;33;38
+310;Yellow;Czerkawa;Dniester;Black Sea;53;22,0;28;31,3
+311;Green;Czarna Hancza;Neman;Baltic Sea;33;7,0;11;17
+312;Pink;Radunia;Vistula;Baltic Sea;45;17,0;24;28
+313;Green;STUPIA;coastal (S³upia);Baltic Sea;51;17,8;28;36
+314;Green;Czarna Hancza;Neman;Baltic Sea;31,5;9,0;14;19,5
+315;Pink;NISHAVA;Danube;Black Sea;50;17,0;27;32
+316;Pink;NISHAVA;Danube;Black Sea;49;20,0;28;32
+317;Yellow;Czerkawa;Dniester;Black Sea;56;19,0;25;30
+318;Yellow;Czorna Krym;Coastal (czorna);Black Sea;35;10,0;12,5;24
+319;Green;Czarna Hancza;Neman;Baltic Sea;34;11,0;15;20
+320;Pink;Prut;Danube;Black Sea;63;19,0;39;42,1
+321;Pink;Radunia;Vistula;Baltic Sea;44;20,0;26;30,3
+322;Pink;Prut;Danube;Black Sea;65;19,0;33,1;42,1
+323;Pink;PALAKARIYA;Danube;Black Sea;59;28,0;33;39,1
+324;Pink;PALAKARIYA;Danube;Black Sea;57;22,0;27;31,5
+325;Pink;Prut;Danube;Black Sea;70;17,0;31;43,2
+326;Pink;San;Vistula;Baltic Sea;46;10,5;20;26,6
+327;Pink;Prut;Danube;Black Sea;67;20,0;32,7;41,5
+328;Green;Szeszupa;Neman;Baltic Sea;47;13,0;20;27
+329;Green;Brzeznicka;Oder;Baltic Sea;42;11,0;17;20,3
+330;Pink;NISHAVA;Danube;Black Sea;46;15,8;20,8;27
+331;Yellow;Czerkawa;Dniester;Black Sea;54;18,0;22,5;37
+332;Pink;Radunia;Vistula;Baltic Sea;41;13,0;18;24
+333;Green;Drawa;Oder;Baltic Sea;49,5;9,0;25,5;41
+334;Green;Drawa;Oder;Baltic Sea;49;15,0;29;40
+335;Pink;Jasiozka;Vistula;Baltic Sea;37;18,5;27;32
+336;Pink;Jasiozka;Vistula;Baltic Sea;41;13,2;22,1;29,1
+337;Pink;PALAKARIYA;Danube;Black Sea;60;21,0;40;49,5
+338;Green;Drawa;Oder;Baltic Sea;53;18,0;33,5;44
+339;Green;Drawa;Oder;Baltic Sea;52,5;14,0;26;40
+340;Green;Drawa;Oder;Baltic Sea;51;16,0;30;42
+341;Green;Drawa;Oder;Baltic Sea;49;14,0;29;42
+342;Pink;Radunia;Vistula;Baltic Sea;39;19,8;24,8;30,5
+343;Yellow;Czorna Krym;Coastal (czorna);Black Sea;32;14,0;20;26
+344;Yellow;Czorna Krym;Coastal (czorna);Black Sea;38;11,0;19;26,9
+345;Green;Drawa;Oder;Baltic Sea;47;14,0;26;37
+346;Pink;OGOSTA;Danube;Black Sea;53;24,9;32,4;40
+347;Yellow;Czorna Krym;Coastal (czorna);Black Sea;35;13,0;20;26
+348;Yellow;Czorna Krym;Coastal (czorna);Black Sea;35;14,0;22,1;25,8
+349;Yellow;Czorna Krym;Coastal (czorna);Black Sea;32;19,0;24;26,9
+350;Green;Drawa;Oder;Baltic Sea;52;15,0;32;44
+351;Pink;Radunia;Vistula;Baltic Sea;50;27,0;36;41
+352;Green;Drawa;Oder;Baltic Sea;49;16,5;21;36
+353;Green;Drawa;Oder;Baltic Sea;47;18,0;33;40
+354;Pink;Jasiozka;Vistula;Baltic Sea;48,2;14,5;28,8;41,5
+355;Pink;Grónik;Danube;Black Sea;45;22,0;31;34
+356;Green;Drawa;Oder;Baltic Sea;54,5;7,0;18;32,5
+357;Green;Boh;Dnieper;Black Sea;65;28,0;43;50
+358;Pink;NISHAVA;Danube;Black Sea;43;12,0;19;26
+359;Pink;Ostawica;Vistula;Baltic Sea;73;22,0;35;42
+360;Yellow;Czorna Krym;Coastal (czorna);Black Sea;42;15,0;21;27,2
+361;Yellow;Czerkawa;Dniester;Black Sea;62;21,9;34,8;47,4
+362;Pink;Bega;Danube;Black Sea;40;16,0;27,4;33
+363;Pink;Radunia;Vistula;Baltic Sea;44;17,0;24;31
+364;Green;Warkocz;Vistula;Baltic Sea;49;15,5;29;38,4
+365;Green;Szeszupa;Neman;Baltic Sea;38;13,0;17;24,1
+366;Yellow;Czorna Krym;Coastal (czorna);Black Sea;38;16,0;25,1;30,9
+367;Pink;Bega;Danube;Black Sea;38;21,0;28;31
+368;Green;STUPIA;coastal (S³upia);Baltic Sea;57;29,0;41;47
+369;Pink;PALAKARIYA;Danube;Black Sea;39,5;16,0;27;32
+370;Yellow;Czorna Krym;Coastal (czorna);Black Sea;37;20,0;25;30,7
+371;Pink;NISHAVA;Danube;Black Sea;45;14,0;24,5;32,2
+372;Yellow;Czorna Krym;Coastal (czorna);Black Sea;36;15,0;21;25,9
+373;Yellow;Czorna Krym;Coastal (czorna);Black Sea;34;12,3;20;26,3
+374;Green;Drawa;Oder;Baltic Sea;51;7,0;24;38
+375;Green;Szeszupa;Neman;Baltic Sea;52;17,0;32;42,2
+376;Pink;Bega;Danube;Black Sea;40;22,8;28;32
+377;Pink;Ostawica;Vistula;Baltic Sea;50;21,0;30;42
+378;Yellow;Czerkawa;Dniester;Black Sea;58;20,0;26,8;40
+379;Pink;Jasiozka;Vistula;Baltic Sea;43;13,4;30,3;34,2
+380;Yellow;Czorna Krym;Coastal (czorna);Black Sea;36;14,0;19;25,8
+381;Pink;PALAKARIYA;Danube;Black Sea;49;19,8;28;32
+382;Green;Boh;Dnieper;Black Sea;65;31,0;44;54,5
+383;Green;Warkocz;Vistula;Baltic Sea;48;17,5;21;32
+384;Green;Szeszupa;Neman;Baltic Sea;48;20,9;26;36,1
+385;Green;Szeszupa;Neman;Baltic Sea;59;19,0;30,9;42,3
+386;Green;Szeszupa;Neman;Baltic Sea;45;13,0;20,2;27
+387;Pink;Radunia;Vistula;Baltic Sea;46;17,0;27;35
+388;Pink;San;Vistula;Baltic Sea;53,5;16,2;24;34
+389;Yellow;Czerkawa;Dniester;Black Sea;61;24,8;30,2;42,2
+390;Yellow;Czerkawa;Dniester;Black Sea;56;22,5;35;37,5
+391;Green;Drawa;Oder;Baltic Sea;50,5;7,0;24,5;39,5
+392;Green;Szeszupa;Neman;Baltic Sea;43;18,0;25;33,1
+393;Pink;San;Vistula;Baltic Sea;42;13,0;21;32
+394;Yellow;Czorna Krym;Coastal (czorna);Black Sea;32;10,0;16;24
+395;Green;Szeszupa;Neman;Baltic Sea;53;25,1;31,5;40
+396;Yellow;Czerkawa;Dniester;Black Sea;49;21,0;28;35,9
+397;Pink;Bega;Danube;Black Sea;34;14,0;21;30,5
+398;Pink;San;Vistula;Baltic Sea;55;18,0;22;25,6
+399;Pink;Radunia;Vistula;Baltic Sea;32;14,5;19;21,7
+400;Green;Drawa;Oder;Baltic Sea;64;23,0;38,5;49
+401;Green;Boh;Dnieper;Black Sea;62;17,5;30;41,5
+402;Green;Boh;Dnieper;Black Sea;61;18,0;35;41
+403;Pink;Bega;Danube;Black Sea;46;26,0;33;35
+404;Yellow;Czorna Krym;Coastal (czorna);Black Sea;34;17,0;21;26
+405;Pink;Bega;Danube;Black Sea;47;23,5;33;37
+406;Green;Brzeznicka;Oder;Baltic Sea;43;13,0;20,5;28,2
+407;Green;Czarna Hancza;Neman;Baltic Sea;33;11,0;15;21
+408;Pink;Bega;Danube;Black Sea;43;14,0;28;31
+409;Pink;Prut;Danube;Black Sea;65;19,0;30,2;38,8
+410;Green;Brzeznicka;Oder;Baltic Sea;32,5;17,0;21,3;26
+411;Pink;Siret;Danube;Black Sea;57;29,1;37;41
+412;Yellow;Czorna Krym;Coastal (czorna);Black Sea;39;13,0;22;27,8
+413;Green;Warkocz;Vistula;Baltic Sea;54;13,0;27;34,2
+414;Pink;Grónik;Danube;Black Sea;53;22,0;32;38
+415;Green;Szeszupa;Neman;Baltic Sea;33;16,8;20,1;22,9
+416;Pink;San;Vistula;Baltic Sea;53,5;13,1;20,5;23
+417;Pink;Prut;Danube;Black Sea;57;15,9;27;37,8
+418;Pink;PALAKARIYA;Danube;Black Sea;56;30,0;36;42,5
+419;Green;Czarna Hancza;Neman;Baltic Sea;35,5;11,0;17;23
+420;Pink;Prut;Danube;Black Sea;60;26,0;34;43,2
+421;Pink;NISHAVA;Danube;Black Sea;51;21,0;30;32,3
+422;Green;Warkocz;Vistula;Baltic Sea;43;16,8;24,5;28
+423;Green;Czarna Hancza;Neman;Baltic Sea;30;11,0;15,7;18,5
+424;Pink;Radunia;Vistula;Baltic Sea;41;14,0;20,6;28
+425;Green;Boh;Dnieper;Black Sea;67;31,0;46;51,2
+426;Green;Boh;Dnieper;Black Sea;61;18,0;29;42
+427;Pink;NISHAVA;Danube;Black Sea;49;17,0;26;32
+428;Green;Drawa;Oder;Baltic Sea;44,5;8,0;23;36
+429;Pink;OGOSTA;Danube;Black Sea;30;8,0;26;30
+430;Green;Warkocz;Vistula;Baltic Sea;21;8,0;17,2;21
+431;Pink;Jasiozka;Vistula;Baltic Sea;44;8,5;20,2;40,2
+432;Pink;OGOSTA;Danube;Black Sea;31;8,5;16,5;26,2
+433;Pink;OGOSTA;Danube;Black Sea;30;8,9;22;30
+434;Pink;OGOSTA;Danube;Black Sea;32;9,0;17,6;26,9
+435;Pink;Radunia;Vistula;Baltic Sea;23;9,0;13;18,2
+436;Pink;OGOSTA;Danube;Black Sea;31;9,0;27,4;31
+437;Pink;Radunia;Vistula;Baltic Sea;26;9,5;13,7;21
+438;Pink;OGOSTA;Danube;Black Sea;30;9,5;25;30
+439;Pink;Radunia;Vistula;Baltic Sea;21;9,5;14,4;21
+440;Pink;OGOSTA;Danube;Black Sea;34;9,9;25;29,8
+441;Green;Warkocz;Vistula;Baltic Sea;20;9,9;14,9;16
+442;Pink;OGOSTA;Danube;Black Sea;33;9,9;27,8;33
+443;Pink;Jasiozka;Vistula;Baltic Sea;41;10,0;23,5;38,1
+444;Green;Brzeznicka;Oder;Baltic Sea;28;10,0;18,8;23,8
+445;Green;Warkocz;Vistula;Baltic Sea;19;10,0;17,2;19
+446;Pink;OGOSTA;Danube;Black Sea;30;10,0;25,4;30
+447;Pink;OGOSTA;Danube;Black Sea;31,5;10,0;26,2;31,5
+448;Green;Warkocz;Vistula;Baltic Sea;22;10,0;18,2;22
+449;Pink;OGOSTA;Danube;Black Sea;35;10,0;27,4;35
+450;Green;Brzeznicka;Oder;Baltic Sea;37;10,1;17,1;26
+451;Green;Warkocz;Vistula;Baltic Sea;24;10,2;19,8;24
+452;Pink;Radunia;Vistula;Baltic Sea;26;10,5;13,5;18
+453;Pink;OGOSTA;Danube;Black Sea;32;10,6;19;25
+454;Pink;Siret;Danube;Black Sea;22;10,8;22;
+455;Pink;Radunia;Vistula;Baltic Sea;26;10,9;18;23,3
+456;Pink;OGOSTA;Danube;Black Sea;33;10,9;27,8;33
+457;Pink;Jasiozka;Vistula;Baltic Sea;42;11,0;27;33,5
+458;Green;Drawa;Oder;Baltic Sea;45,5;11,0;24;37
+459;Pink;OGOSTA;Danube;Black Sea;32;11,0;20,7;29,8
+460;Pink;San;Vistula;Baltic Sea;51;11,0;14;20
+461;Pink;Ostawica;Vistula;Baltic Sea;42;11,0;21;28
+462;Pink;Jasiozka;Vistula;Baltic Sea;34;11,0;30;34
+463;Pink;OGOSTA;Danube;Black Sea;32;11,0;28;32
+464;Green;Warkocz;Vistula;Baltic Sea;36;11,1;22;32,3
+465;Pink;Jasiozka;Vistula;Baltic Sea;40;11,2;16,5;26
+466;Pink;Siret;Danube;Black Sea;37;11,3;22,3;27
+467;Pink;Jasiozka;Vistula;Baltic Sea;38,5;11,5;19,3;35
+468;Pink;Jasiozka;Vistula;Baltic Sea;42;11,5;25;38
+469;Pink;OGOSTA;Danube;Black Sea;30,5;11,5;22;27
+470;Pink;Bega;Danube;Black Sea;37;12,0;23;31,6
+471;Yellow;Czorna Krym;Coastal (czorna);Black Sea;31;12,0;20;24,9
+472;Pink;Bega;Danube;Black Sea;40;12,0;26;29
+473;Pink;Grónik;Danube;Black Sea;53;12,0;26;40,5
+474;Pink;Jasiozka;Vistula;Baltic Sea;38,5;12,0;21;26,5
+475;Pink;Jasiozka;Vistula;Baltic Sea;39;12,0;27;39
+476;Pink;Siret;Danube;Black Sea;33;12,0;22,1;33
+477;Pink;Jasiozka;Vistula;Baltic Sea;41;12,1;28;38,2
+478;Yellow;Czorna Krym;Coastal (czorna);Black Sea;39;12,2;20,3;28
+479;Pink;Prut;Danube;Black Sea;47;12,2;17;22,5
+480;Green;Brzeznicka;Oder;Baltic Sea;36;12,3;22,2;32
+481;Pink;OGOSTA;Danube;Black Sea;29;12,5;21,8;29
+482;Pink;Jasiozka;Vistula;Baltic Sea;43;13,0;21,5;39
+483;Green;LUKNELIS;Neman;Baltic Sea;32;13,0;16,9;23,8
+484;Pink;Jasiozka;Vistula;Baltic Sea;43;13,0;26,2;40
+485;Pink;Jasiozka;Vistula;Baltic Sea;38;13,0;21,9;33
+486;Pink;Prut;Danube;Black Sea;55;13,0;28,8;38,9
+487;Green;Warkocz;Vistula;Baltic Sea;25;13,0;17,2;25
+488;Pink;OGOSTA;Danube;Black Sea;32;13,0;21,5;32
+489;Pink;Jasiozka;Vistula;Baltic Sea;34,5;13,0;21;34,5
+490;Pink;Bega;Danube;Black Sea;40,5;13,0;17,5;30
+491;Pink;Jasiozka;Vistula;Baltic Sea;35;13,1;18;23
+492;Pink;Jasiozka;Vistula;Baltic Sea;41;13,1;38,2;41
+493;Green;Szeszupa;Neman;Baltic Sea;41;13,7;24;35,3
+494;Green;Brzeznicka;Oder;Baltic Sea;35;13,8;22,1;30,8
+495;Green;Drawa;Oder;Baltic Sea;43;14,0;25;35
+496;Green;Drawa;Oder;Baltic Sea;48;14,0;31;41
+497;Pink;Siret;Danube;Black Sea;55;14,0;41;51
+498;Green;Brzeznicka;Oder;Baltic Sea;31;14,0;22,1;28,2
+499;Pink;Jasiozka;Vistula;Baltic Sea;30;14,0;17,9;25
+500;Pink;Jasiozka;Vistula;Baltic Sea;42;14,0;37,3;42
+501;Pink;Siret;Danube;Black Sea;38;14,0;27;38
+502;Pink;OGOSTA;Danube;Black Sea;28;14,0;21,5;32
+503;Yellow;Czorna Krym;Coastal (czorna);Black Sea;30;14,2;18,8;21,1
+504;Green;Brzeznicka;Oder;Baltic Sea;31;14,2;22,1;25,2
+505;Green;Drawa;Oder;Baltic Sea;45,5;14,5;29,5;39
+506;Green;Drawa;Oder;Baltic Sea;45,5;14,5;29,5;39
+507;Green;Brzeznicka;Oder;Baltic Sea;32;14,5;22,1;28,9
+508;Pink;OGOSTA;Danube;Black Sea;30,5;14,5;23;27,5
+509;Green;Warkocz;Vistula;Baltic Sea;38;15,0;23,1;31,9
+510;Green;Drawa;Oder;Baltic Sea;51;15,0;30;44,5
+511;Pink;PALAKARIYA;Danube;Black Sea;41;15,0;28;34
+512;Yellow;Czorna Krym;Coastal (czorna);Black Sea;34;15,0;22,1;27,6
+513;Pink;Jasiozka;Vistula;Baltic Sea;38;15,0;30;35
+514;Pink;Jasiozka;Vistula;Baltic Sea;37;15,0;20;34,9
+515;Green;Brzeznicka;Oder;Baltic Sea;35;15,0;22,8;29,8
+516;Pink;OGOSTA;Danube;Black Sea;32;15,0;29,5;32
+517;Pink;OGOSTA;Danube;Black Sea;30;15,0;25;30
+518;Pink;Siret;Danube;Black Sea;15;15,0;;
+519;Green;Szeszupa;Neman;Baltic Sea;47;15,1;19;38
+520;Green;Szeszupa;Neman;Baltic Sea;48;15,2;29,8;42,5
+521;Pink;Prut;Danube;Black Sea;61;15,3;21;25,2
+522;Green;Drawa;Oder;Baltic Sea;51;15,5;30;44,1
+523;Green;Szeszupa;Neman;Baltic Sea;44;15,5;23;32
+524;Pink;PALAKARIYA;Danube;Black Sea;40;16,0;27;31
+525;Pink;Jasiozka;Vistula;Baltic Sea;38;16,0;25;36
+526;Green;Brzeznicka;Oder;Baltic Sea;35;16,0;23,8;30,1
+527;Pink;Jasiozka;Vistula;Baltic Sea;37;16,0;31,8;37
+528;Pink;Prut;Danube;Black Sea;51;16,3;33,1;40,9
+529;Green;Szeszupa;Neman;Baltic Sea;46;16,5;23,7;33,2
+530;Yellow;Czorna Krym;Coastal (czorna);Black Sea;34;16,5;24;31,4
+531;Pink;Bega;Danube;Black Sea;38;16,6;27;34
+532;Green;Brzeznicka;Oder;Baltic Sea;28;16,7;23,3;28
+533;Pink;Prut;Danube;Black Sea;44;17,0;21,8;38
+534;Pink;Bega;Danube;Black Sea;47;17,0;30;41
+535;Pink;Jasiozka;Vistula;Baltic Sea;41;17,0;29,9;37
+536;Green;Brzeznicka;Oder;Baltic Sea;47;17,0;29,2;37,1
+537;Green;Warkocz;Vistula;Baltic Sea;40;17,0;25;37
+538;Yellow;Czorna Krym;Coastal (czorna);Black Sea;33;17,0;24,2;30,2
+539;Pink;PALAKARIYA;Danube;Black Sea;35;17,0;20;32
+540;Green;Brzeznicka;Oder;Baltic Sea;29;17,0;23,8;29
+541;Green;Szeszupa;Neman;Baltic Sea;51;17,1;35,1;43,2
+542;Green;Warkocz;Vistula;Baltic Sea;51;17,2;30;40
+543;Green;Brzeznicka;Oder;Baltic Sea;36;17,5;25,1;33
+544;Green;Brzeznicka;Oder;Baltic Sea;40;17,5;25,1;34
+545;Green;Warkocz;Vistula;Baltic Sea;34;17,8;30,1;34
+546;Green;Brzeznicka;Oder;Baltic Sea;48;18,0;27,1;38,3
+547;Green;Drawa;Oder;Baltic Sea;54,5;18,0;29;43
+548;Pink;Jasiozka;Vistula;Baltic Sea;46,5;18,0;33;39,2
+549;Pink;Prut;Danube;Black Sea;39;18,0;22;28,2
+550;Pink;Jasiozka;Vistula;Baltic Sea;42,1;18,0;27;35,2
+551;Green;STUPIA;coastal (S³upia);Baltic Sea;50;18,0;26;36
+552;Pink;Bega;Danube;Black Sea;39;18,0;31;36,8
+553;Green;Warkocz;Vistula;Baltic Sea;41;18,0;26;37
+554;Pink;Bega;Danube;Black Sea;40;18,0;29;33,8
+555;Green;STUPIA;coastal (S³upia);Baltic Sea;42;18,0;27;35
+556;Green;Warkocz;Vistula;Baltic Sea;42;18,0;23;33,5
+557;Pink;Prut;Danube;Black Sea;58;18,0;29,8;42,4
+558;Green;Warkocz;Vistula;Baltic Sea;36,5;18,0;31,9;36,5
+559;Pink;Jasiozka;Vistula;Baltic Sea;38,5;18,0;24,3;38,5
+560;Pink;Jasiozka;Vistula;Baltic Sea;42;18,0;26;42
+561;Green;Szeszupa;Neman;Baltic Sea;52;18,1;34,3;45,1
+562;Green;Warkocz;Vistula;Baltic Sea;45;18,5;33,8;38,1
+563;Green;Warkocz;Vistula;Baltic Sea;50;19,0;34;40,6
+564;Pink;Prut;Danube;Black Sea;59;19,0;30,2;43,1
+565;Pink;Prut;Danube;Black Sea;50;19,0;24,8;33
+566;Green;Warkocz;Vistula;Baltic Sea;41;19,0;31,9;39,8
+567;Pink;PALAKARIYA;Danube;Black Sea;41;19,0;32;39
+568;Pink;Jasiozka;Vistula;Baltic Sea;43;19,0;35;39
+569;Pink;Bega;Danube;Black Sea;36;19,0;28,5;32
+570;Pink;Jasiozka;Vistula;Baltic Sea;45;19,0;33,5;37
+571;Pink;Jasiozka;Vistula;Baltic Sea;39;19,0;35,9;39
+572;Green;Szeszupa;Neman;Baltic Sea;46;19,1;32,1;41,3
+573;Pink;Bega;Danube;Black Sea;43;19,5;33;36
+574;Pink;Jasiozka;Vistula;Baltic Sea;38;19,5;22;30
+575;Pink;OGOSTA;Danube;Black Sea;31;19,6;22,5;27,4
+576;Pink;Siret;Danube;Black Sea;49;19,8;27;34,2
+577;Green;Drawa;Oder;Baltic Sea;51;20,0;35;45
+578;Green;Szeszupa;Neman;Baltic Sea;51;20,0;35,1;42,1
+579;Green;Warkocz;Vistula;Baltic Sea;50;20,0;32,8;41
+580;Pink;PALAKARIYA;Danube;Black Sea;59;20,0;43;48
+581;Green;Warkocz;Vistula;Baltic Sea;38;20,0;30;34,2
+582;Pink;PALAKARIYA;Danube;Black Sea;44;20,0;33;39,5
+583;Green;Szeszupa;Neman;Baltic Sea;48;20,0;22,5;43
+584;Pink;Jasiozka;Vistula;Baltic Sea;44;20,0;31,2;38
+585;Green;Warkocz;Vistula;Baltic Sea;56;20,0;37,9;48,1
+586;Pink;Siret;Danube;Black Sea;20;20,0;;
+587;Green;Szeszupa;Neman;Baltic Sea;45;20,1;35,7;45
+588;Green;Szeszupa;Neman;Baltic Sea;42;20,5;31;39
+589;Pink;Bega;Danube;Black Sea;36;20,5;29,8;33,1
+590;Green;Szeszupa;Neman;Baltic Sea;43;20,5;29,1;38
+591;Green;Drawa;Oder;Baltic Sea;51;21,0;35;45
+592;Yellow;Czerkawa;Dniester;Black Sea;58;21,0;31;45
+593;Green;Boh;Dnieper;Black Sea;67;21,0;40,5;51,6
+594;Pink;Jasiozka;Vistula;Baltic Sea;46;21,0;28,3;38,4
+595;Pink;Bega;Danube;Black Sea;41;21,0;26;31
+596;Green;Boh;Dnieper;Black Sea;65;21,0;35,7;47
+597;Green;Warkocz;Vistula;Baltic Sea;44;21,0;32;42
+598;Pink;Jasiozka;Vistula;Baltic Sea;45;21,0;35,5;40,4
+599;Pink;Jasiozka;Vistula;Baltic Sea;38;21,0;34,8;38
+600;Green;Warkocz;Vistula;Baltic Sea;37;21,0;31;35,3
+601;Pink;Siret;Danube;Black Sea;21;21,0;;
+602;Green;Drawa;Oder;Baltic Sea;53;21,1;30,5;46,1
+603;Green;Drawa;Oder;Baltic Sea;51,5;21,2;36;46,5
+604;Pink;Jasiozka;Vistula;Baltic Sea;49;21,2;28,8;37
+605;Green;Drawa;Oder;Baltic Sea;48,5;21,2;37;45,5
+606;Green;Szeszupa;Neman;Baltic Sea;45;21,2;32,1;41
+607;Green;STUPIA;coastal (S³upia);Baltic Sea;51;21,3;34,6;45,3
+608;Pink;Siret;Danube;Black Sea;55;21,6;45,3;55
+609;Pink;PALAKARIYA;Danube;Black Sea;54;22,0;38;47
+610;Green;Boh;Dnieper;Black Sea;59;22,0;38;50
+611;Pink;Bega;Danube;Black Sea;39;22,0;24,5;33
+612;Pink;PALAKARIYA;Danube;Black Sea;43;22,0;34;41
+613;Green;Drawa;Oder;Baltic Sea;42;22,0;35;40
+614;Pink;Bega;Danube;Black Sea;36;22,0;32;33,6
+615;Green;STUPIA;coastal (S³upia);Baltic Sea;47;22,0;31;41
+616;Green;Warkocz;Vistula;Baltic Sea;38;22,0;30,1;32,3
+617;Pink;Siret;Danube;Black Sea;52;22,0;29,8;39,6
+618;Pink;Jasiozka;Vistula;Baltic Sea;48;22,3;33;41,5
+619;Pink;Prut;Danube;Black Sea;55;23,0;44;49,8
+620;Pink;Jasiozka;Vistula;Baltic Sea;49;23,0;40,7;43,2
+621;Green;Boh;Dnieper;Black Sea;61;23,0;39;49,1
+622;Pink;Prut;Danube;Black Sea;57;23,0;44;52
+623;Pink;Jasiozka;Vistula;Baltic Sea;36;23,0;31;36
+624;Pink;Bega;Danube;Black Sea;37;23,0;31,8;37
+625;Pink;Siret;Danube;Black Sea;23;23,0;;
+626;Green;Brzeznicka;Oder;Baltic Sea;50;23,5;34,5;44
+627;Pink;Bega;Danube;Black Sea;40;23,5;32,8;35
+628;Pink;PALAKARIYA;Danube;Black Sea;46;23,5;32,6;41
+629;Pink;Prut;Danube;Black Sea;54;23,9;41;54
+630;Pink;PALAKARIYA;Danube;Black Sea;46;24,0;32;36
+631;Pink;Jasiozka;Vistula;Baltic Sea;55;24,0;34,1;40,1
+632;Green;Boh;Dnieper;Black Sea;67;24,0;41;50
+633;Pink;Bega;Danube;Black Sea;40;24,0;33;38
+634;Pink;Siret;Danube;Black Sea;24;24,0;;
+635;Pink;Siret;Danube;Black Sea;24;24,0;;
+636;Green;STUPIA;coastal (S³upia);Baltic Sea;50;24,5;34;42
+637;Pink;Bega;Danube;Black Sea;36;25,0;31;34
+638;Pink;Jasiozka;Vistula;Baltic Sea;51;25,0;40,5;46,7
+639;Pink;Siret;Danube;Black Sea;63;25,0;33,1;54,2
+640;Pink;Jasiozka;Vistula;Baltic Sea;41;25,0;35,2;39,1
+641;Pink;Bega;Danube;Black Sea;33,5;25,0;29,5;31
+642;Pink;PALAKARIYA;Danube;Black Sea;46;25,0;38;42,4
+643;Pink;Jasiozka;Vistula;Baltic Sea;42,5;25,0;34,8;39
+644;Pink;Siret;Danube;Black Sea;25;25,0;;
+645;Pink;Siret;Danube;Black Sea;25;25,0;;
+646;Pink;Siret;Danube;Black Sea;25,5;25,5;;
+647;Pink;Siret;Danube;Black Sea;64;26,0;35,7;53,9
+648;Green;Boh;Dnieper;Black Sea;62;26,0;37;42,5
+649;Pink;Bega;Danube;Black Sea;39;26,0;32;36
+650;Pink;Siret;Danube;Black Sea;26;26,0;;
+651;Pink;Siret;Danube;Black Sea;26;26,0;;
+652;Pink;Siret;Danube;Black Sea;26;26,0;;
+653;Green;Brzeznicka;Oder;Baltic Sea;58;27,0;38,2;49
+654;Pink;PALAKARIYA;Danube;Black Sea;53;27,0;40;47
+655;Pink;Prut;Danube;Black Sea;54;27,0;33;36,7
+656;Yellow;Czerkawa;Dniester;Black Sea;60;27,0;33,5;41,5
+657;Pink;Siret;Danube;Black Sea;27;27,0;;
+658;Pink;Siret;Danube;Black Sea;27;27,0;;
+659;Pink;Prut;Danube;Black Sea;57;27,1;36,8;50,9
+660;Pink;Prut;Danube;Black Sea;69;28,0;41;51,7
+661;Pink;Jasiozka;Vistula;Baltic Sea;44;28,0;38,2;44
+662;Green;Boh;Dnieper;Black Sea;67;29,0;44;52,1
+663;Pink;Siret;Danube;Black Sea;29;29,0;;
+664;Pink;Siret;Danube;Black Sea;29;29,0;;
+665;Pink;Jasiozka;Vistula;Baltic Sea;43;29,2;35,4;38,8
+666;Pink;Jasiozka;Vistula;Baltic Sea;52;30,4;40,7;52
+667;Pink;Jasiozka;Vistula;Baltic Sea;53;31,0;40;44,8
+668;Green;Boh;Dnieper;Black Sea;57;31,0;42;50
+669;Green;Boh;Dnieper;Black Sea;65;31,0;48,8;58,6
+670;Pink;Jasiozka;Vistula;Baltic Sea;43;31,0;35;37
+671;Pink;Siret;Danube;Black Sea;55;31,9;38;42
+672;Green;STUPIA;coastal (S³upia);Baltic Sea;46,5;32,0;38;40
+673;Pink;Jasiozka;Vistula;Baltic Sea;42,5;32,0;38;39
+674;Green;Boh;Dnieper;Black Sea;65;33,0;42;51,8
+675;Green;Boh;Dnieper;Black Sea;65;33,0;47;56
+676;Pink;Siret;Danube;Black Sea;65;33,2;48,9;58
+677;Pink;Siret;Danube;Black Sea;61;33,4;39;51
+678;Green;Boh;Dnieper;Black Sea;60;34,0;41,2;55
+679;Green;Boh;Dnieper;Black Sea;59;34,0;44;48,5
+680;Green;Boh;Dnieper;Black Sea;64;34,0;46,1;52,7
+681;Green;Boh;Dnieper;Black Sea;65;35,0;48;56
+682;Green;Boh;Dnieper;Black Sea;55;35,0;41;47
+683;Green;Boh;Dnieper;Black Sea;61;35,0;44;51,8
+684;Green;Boh;Dnieper;Black Sea;59;36,0;46;59
+685;Green;Boh;Dnieper;Black Sea;62;36,5;48,5;53,5
+686;Green;Boh;Dnieper;Black Sea;67;37,0;52;61
+687;Pink;PALAKARIYA;Danube;Black Sea;66;41,0;53,4;60,5
+688;Green;Boh;Dnieper;Black Sea;70;;;
+689;Green;Brzeznicka;Oder;Baltic Sea;57;;;
+690;Pink;Grónik;Danube;Black Sea;52;;;
+691;Pink;Grónik;Danube;Black Sea;57;;;
+692;Pink;Grónik;Danube;Black Sea;56;;;
+693;Pink;Grónik;Danube;Black Sea;54;;;
+694;Pink;Grónik;Danube;Black Sea;54;;;
+695;Pink;Grónik;Danube;Black Sea;49;;;
+696;Pink;Jelešnia;Danube;Black Sea;66;;;
+697;Pink;Jelešnia;Danube;Black Sea;56;;;
+698;Pink;Jelešnia;Danube;Black Sea;58;;;
+699;Pink;Jelešnia;Danube;Black Sea;49;;;
+700;Pink;Jelešnia;Danube;Black Sea;58;;;
+701;Pink;Jelešnia;Danube;Black Sea;52;;;
+702;Pink;Jelešnia;Danube;Black Sea;45;;;
+703;Green;LUKNELIS;Neman;Baltic Sea;35;;;
+704;Green;LUKNELIS;Neman;Baltic Sea;45;;;
+705;Green;LUKNELIS;Neman;Baltic Sea;43;;;
+706;Green;LUKNELIS;Neman;Baltic Sea;51;;;
+707;Pink;NISHAVA;Danube;Black Sea;51;;;
+708;Pink;NISHAVA;Danube;Black Sea;57;;;
+709;Pink;NISHAVA;Danube;Black Sea;48;;;
+710;Pink;NISHAVA;Danube;Black Sea;50;;;
+711;Pink;NISHAVA;Danube;Black Sea;49;;;
+712;Pink;NISHAVA;Danube;Black Sea;56;;;
+713;Pink;NISHAVA;Danube;Black Sea;54;;;
+714;Pink;NISHAVA;Danube;Black Sea;48;;;
+715;Pink;NISHAVA;Danube;Black Sea;46;;;
+716;Pink;PALAKARIYA;Danube;Black Sea;66;;;
+717;Pink;PALAKARIYA;Danube;Black Sea;77;;;
+718;Pink;PALAKARIYA;Danube;Black Sea;71;;;
+719;Pink;PALAKARIYA;Danube;Black Sea;66;;;
+720;Pink;San;Vistula;Baltic Sea;62;;;
+721;Green;STUPIA;coastal (S³upia);Baltic Sea;70;;;
+722;Green;STUPIA;coastal (S³upia);Baltic Sea;59;;;
+723;Green;STUPIA;coastal (S³upia);Baltic Sea;71;;;
+724;Green;Warkocz;Vistula;Baltic Sea;60,5;;;
+725;Green;Warkocz;Vistula;Baltic Sea;67;;;
+726;Green;Warkocz;Vistula;Baltic Sea;58;;;
+727;Green;Warkocz;Vistula;Baltic Sea;65;;;
+728;Green;Warkocz;Vistula;Baltic Sea;63;;;
+729;Green;Warkocz;Vistula;Baltic Sea;56;;;
+730;Green;Warkocz;Vistula;Baltic Sea;62;;;
+731;Green;Warkocz;Vistula;Baltic Sea;65;;;
+732;Green;Warkocz;Vistula;Baltic Sea;62;;;
+733;Green;Warkocz;Vistula;Baltic Sea;58;;;
+734;Green;Warkocz;Vistula;Baltic Sea;63;;;
